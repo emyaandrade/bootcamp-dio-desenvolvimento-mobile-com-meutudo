@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp-dio-meutudo", 
+  "version": "1.0.0",
+  "description": "- Bootcamp iniciado no dia 21/07/2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emyaandrade/bootcamp-dio-desenvolvimento-mobile-com-meutudo.git"
+  },
+  "keywords": [],
+  "author": "emilly-andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emyaandrade/bootcamp-dio-desenvolvimento-mobile-com-meutudo/issues"
+  },
+  "homepage": "https://github.com/emyaandrade/bootcamp-dio-desenvolvimento-mobile-com-meutudo#readme"
+}

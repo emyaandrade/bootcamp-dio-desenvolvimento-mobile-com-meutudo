@@ -1,0 +1,4 @@
+//O que é um projeto Node.js:
+//para ter um projeto Node.js a genta vai precisar ter um arquivo especial, um arquivo coração que geralmente é o package.json, ou seja, o arquivo empacotador, o JSON. Esse package empacota os arquivos JavaScript e conecta eles.
+//então não são vários arquivos jogados. Eles são vários arquivos JavaScript (ou typescript) que estão todos conectados entre eles através de um arquivo coração, que é o arquivo empacotador, que é o package.json
+//O package.json faz o gerenciamento do controle de dependencias, diz qual é o nome da sua aplicação, qual é a versão da sua aplicação, qual é o arquivo de entrada
