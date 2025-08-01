@@ -1,0 +1,19 @@
+// Diferenças CommonJS e EcmaScript Modules
+
+/*CommonJS
+ - Síncrono por padrão
+ - Uso principal em Servidor (Node.js)
+ - Sintaxe: 'require' e 'module.exports'
+ - carregamento dinâmico
+*/
+
+/*EcmaScript Modules
+ - Assíncrono por padrão
+ - Suportado nativamente em Navegadores
+ - Sintaxe: 'import' e 'export'
+ - carregamento estático (análise estátic)
+*/
+
+// EcmaScript não é uma linguagem de programação. É uma especificação (basicamente, uma especificação é: os padrões que aquela linguagem tem que seguir).
+
+// O EcmaScript nada mais é do que o JavaScript seguindo os padrões da Ecma.
